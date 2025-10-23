@@ -33,7 +33,7 @@ cyber defenders.
 
 **Web Development**: [Martha Barraza]()
 
-**Experience**: [Eduardo Murillo] (https://github.com/edmuri)
+**Experience**: [Eduardo Murillo](https://github.com/edmuri)
 
 <!--
 
