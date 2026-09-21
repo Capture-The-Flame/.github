@@ -23,17 +23,17 @@ cyber defenders.
 ### Current Leadership
 ---
 
-**Co-Directors**:  [Coda Richmond](https://github.com/thecoda666), [Fatima Mora Garcia](https://github.com/fmora22)
+**Co-Directors**:  Updating...
 
-**Communications**: [Charmi Sutariya]()
+**Communications**:  Updating...
 
-**Logistics**: [Samira Ali](), [Malika Syeda]()
+**Logistics**:  Updating...
 
-**Outreach**: [Jason Carmona](https://github.com/jason-carmona)
+**Outreach**:  Updating...
 
-**Web Development**: [Martha Barraza](https://github.com/marbar122196)
+**Web Development**:  Updating...
 
-**Experience**: [Eduardo Murillo](https://github.com/edmuri)
+**Experience**:  Updating...
 
 <!--
 
