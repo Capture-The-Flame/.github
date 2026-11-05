@@ -1,5 +1,7 @@
 # Welcome to the Capture The Flame Github Page! 🎊
-
+<p align="center">
+  <img src="CTF.png" width="100%">
+</p>
 
 ## What is Capture The Flame? 
 
